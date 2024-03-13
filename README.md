@@ -1,14 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhishek Jadhav
-======================================================================================================================================
-<h4>A Full-Stack developer | MERN Stack</h4>
+<h1 align="center"> 👋 </h1>
+<div align="center">
+  <img src="https://github.com/AbhishekJadhav16/AbhishekJadhav16/blob/main/images/Introduction.gif" alt="header"/>
+</div>
 
-- 🔭 I’m currently working on a MERN Project
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Finance
-- 📫 How to reach me: abhishekjadhav1996@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
-
+<hr>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 

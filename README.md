@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 </h1>
+
 <div align="center">
   <img src="https://github.com/AbhishekJadhav16/AbhishekJadhav16/blob/main/images/Introduction.gif" alt="header"/>
 </div>

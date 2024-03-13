@@ -4,6 +4,8 @@
 </div>
 
 <hr>
+<div style="background: linear-gradient(90deg, hsla(335, 91%, 70%, 1) 0%, hsla(49, 89%, 61%, 1) 100%); padding: 20px;">
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
